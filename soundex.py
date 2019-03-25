@@ -3,6 +3,7 @@
 # Last updated: February 7, 2019
 # Program: soundex.py - this program uses the soundex algorithm and 3 finite state transducers
 # to convert names into their soundex form
+# currently private
 
 from fst import FST
 import string, sys
